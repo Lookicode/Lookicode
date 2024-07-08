@@ -1,17 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Lookicode/Lookicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lukáš Janeček, a software developer from the Czech Republic. Currently traveling New Zealand, Indonesia, Malaysia
 
-Here are some ideas to get you started:
+⚡ Tech stack: Java, Python, JavaScript, Ruby, ~~C++ (deprecated)~~
 
-## 🔭 Experience
--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Experience: \
+2023-24 - helped implement the backend of Óčko TV's integration of instagram in their TV broadcast \
+2021-23 - mentor of programming, taught 150+ students to become employable developers \
+2021    - fullstack at Leadspicker, only for a bit \
+2020-21 - backend developer with Java at ABRA Flexi \
+2019    - internship at Workswell - manual testing, EXIF data from photos
+
+💬 Talk to me about traveling, investing, badminton, table tennis or AI!
+
+🌱 I’m currently looking into ML and AI
+
+📗 Check out my fun projects: \
+[Verbal memory - human benchmark](https://lookicode.github.io/word-memory-human-benchmark/) <- beat my highscore of 80!\
+[Text RPG](https://github.com/Lookicode/RPG) in C++ \
+[Backpacker board - NZ job scraper](https://github.com/Lookicode/backpacker-board-job-scraper) <- under construction \
+[SpacesToUnderscores](https://github.com/Lookicode/SpacesToUnderscores) in C++
+
+📫 Hit me up on my [LinkedIn](https://www.linkedin.com/in/lukas-janecek/)
