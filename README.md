@@ -16,7 +16,7 @@ My name is Lukáš Janeček, a software developer from the Czech Republic. Curre
 🌱 I’m currently looking into ML and AI
 
 📗 Check out my fun projects: \
-[Verbal memory - human benchmark](https://lookicode.github.io/word-memory-human-benchmark/) <- beat my highscore of 80!\
+[Verbal memory - human benchmark](https://lookicode.github.io/verbal-memory-human-benchmark/) <- beat my highscore of 80!\
 [Text RPG](https://github.com/Lookicode/RPG) in C++ <- my most complex public repo \
 [Backpacker board - NZ job scraper](https://github.com/Lookicode/backpacker-board-job-scraper) <- simple scraper to save a bit of time\
 [SpacesToUnderscores](https://github.com/Lookicode/SpacesToUnderscores) in C++ <- just a tiny utility for fun
