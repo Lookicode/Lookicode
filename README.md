@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Lukáš Janeček, a software developer from the Czech Republic. Currently traveling New Zealand, Indonesia, Malaysia
+My name is Lukáš Janeček, a software developer from the Czech Republic. Just returned from traveling New Zealand, Indonesia, Malaysia
 
 ⚡ Tech stack: Java, Python, JavaScript, Ruby, ~~C++ (deprecated)~~
 
