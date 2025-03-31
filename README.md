@@ -5,7 +5,7 @@ My name is Lukáš Janeček, a software developer from the Czech Republic. Just 
 ⚡ Tech stack: Java, Python, JavaScript, Ruby, ~~C++ (deprecated)~~
 
 🔭 Experience: \
-2024-? - backend developer with Python Flask at Aurea.cz
+2024-? - backend developer with Python Flask at Aurea.cz \
 2023-24 - helped implement the backend of Óčko TV's integration of instagram in their TV broadcast \
 2021-23 - mentor of programming, taught 150+ students to become employable developers \
 2021    - fullstack at Leadspicker, only for a bit \
